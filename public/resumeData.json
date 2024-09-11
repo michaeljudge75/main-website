@@ -96,19 +96,19 @@
     "projects": [
       {
         "title":"FUD Backdoor",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"Final Project for a Cyber Security Class",
         "image":"01.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
       {
         "title":"Classification Data Mining",
-        "category":"(offline now) A fighting gear company I started",
+        "category":"Final Project for a Data Mining Class",
         "image":"02.jpg",
         "url":"http://www.timbakerdev.com"
       },
       {
         "title":"Operating Systems Final",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"Final Project for a Operating Systems Class",
         "image":"03.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
@@ -120,7 +120,7 @@
       },
       {
         "title":"COA Final",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "category":"Final Project for a Computer Organization and Architecture Class",
         "image":"05.jpg",
         "url":"http://www.smirkspace.com"
       }
