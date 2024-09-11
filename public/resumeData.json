@@ -18,12 +18,6 @@
     "website": "http://mjudge.org",
     "resumedownload":"http://timbakerdev.com",
     "social":[
-      
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"linkedin",
         "url":"http://linkedin.com/in/michael-judge-9400852b5",
