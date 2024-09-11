@@ -18,11 +18,7 @@
     "website": "http://mjudge.org",
     "resumedownload":"http://timbakerdev.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
+      
       {
         "name":"twitter",
         "url":"http://twitter.com",
