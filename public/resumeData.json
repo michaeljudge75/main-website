@@ -1,21 +1,21 @@
 {
   "main": {
     "name":"Michael Judge",
-    "description":"I am a 3rd year student at Arcadia University studying Computer Science. I am hoping to go into a career in Cyber Security.",
+    "description":"I am a 3rd year student at Arcadia University studying Computer Science. I am hoping to go into a career in Cyber Security",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "bio":"I have been learning Computer Science for close to 8 years. Throughout my studies I have learned Software Development using Java, Website Developement and Design using HTML and CSS, Database Management using SQL, and Penetration Testing via Kali Linux. My intrests lie mostly with Cyber Security and Software Development and I am always looking to learn more about both subjects.",
+    "contactmessage":"Feel free to send me a message.",
     "email": "judgemichael04@gmail.com",
     "phone": "215-688-1081",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "github":"https://github.com/michaeljudge75",
+    "project":"https://github.com/michaeljudge75/main-website",
     "address":{
       "street":"450 S Easton Rd",
       "city":"Glenside",
       "state":"Pennsylvania",
       "zip": "19038"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://mjudge.org",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
@@ -40,39 +40,39 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/MichaelJudge75",
+        "url":"https://github.com/michaeljudge75",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am proficient in languages such as Java",
     "education":[
       {
         "school":"Arcadia Univerity",
         "degree":"Bachelors in Computer Science",
         "graduated":"May 2026",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"During school I took many classes teaching a plethora of subjects. I took courses that gave me foundational knowledge in SQL, HTML, CSS, and a basic knowledge in JavaScript. I also took courses that expanded on my knowledge of Java building it to a competent level. I also used various Linux distrobutions in several courses building my knowledge from novice to intermediate."
       },
       {
-        "school":"School #1 Maybe College?",
+        "school":"Abington Senior High School?",
         "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated":"June 2022",
+        "description":"While in school I took Computer Science courses mostly relating to Software Development using Java. "
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Classic Game Junkie",
+        "title":"Retail Service Associate ",
+        "years":"January 2024 - Present",
+        "description":"During my time working at Classic Game Junkie I built my knowledge of video game and systems to a point where I could recommend various games and consoles that would best fit a certain person's intrests. While employed at Classic Game Junkie I went from being a Retail Associate to working on repairs for various systems. This gave me an intimate knowledge about how these systems worked and how to diagnose the various issues that would arise. The job also taught me how to solder working on anything from larger contacts to smaller watch battery sized contacts."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Arcadia University",
+        "title":"IT Student Assistant",
+        "years":"October 2022 - May 2024",
+        "description":"During my time at Arcadia University while studying Computer Science I also worked part time at the school's IT Helpdesk. At this job I helped troubleshoot various issues that users were having. From issues with the school's software to issues relating to their own personal software or hardware. While working here I was tasked with first triaging support tickets depending on how urgent they were and what type of assistance was needed. Once I had triaged the tickects I was then tasked with responding to the various tickets either solving them myself or gathering information and writing detailed notes regarding the issue so that my superiors could respond and fix the issue."
       }
     ],
     "skills":[
