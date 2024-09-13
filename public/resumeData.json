@@ -2,7 +2,7 @@
   "main": {
     "name":"Michael Judge",
     "description":"I am a 3rd year student at Arcadia University studying Computer Science. I am hoping to go into a career in Cyber Security",
-    "image":"",
+    "image":"profilepic.jpg",
     "bio":"I have been learning Computer Science for close to 8 years. Throughout my studies I have learned Software Development using Java, Website Developement and Design using HTML and CSS, Database Management using SQL, and Penetration Testing via Kali Linux. My intrests lie mostly with Cyber Security and Software Development and I am always looking to learn more about both subjects.",
     "contactmessage":"Feel free to send me a message.",
     "email": "",
