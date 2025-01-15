@@ -8,7 +8,6 @@
     "email": "",
     "phone": "",
     "github":"https://github.com/michaeljudge75",
-    "project":"https://github.com/michaeljudge75/main-website",
     "address":{
       "street":"450 S Easton Rd",
       "city":"Glenside",
@@ -111,16 +110,16 @@
         "url":"http://www.timbakerdev.com"
       },
       {
-        "title":"Operating Systems Final",
+        "title":"Dockerized Game Library",
         "category":"Final Project for a Operating Systems Class",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://github.com/michaeljudge75/docker-game-library"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/michaeljudge75/main-website"
       },
       {
         "title":"COA Final",
