@@ -104,10 +104,10 @@
         "url":"https://github.com/michaeljudge75"
       },
       {
-        "title":"Classification Data Mining",
-        "category":"Final Project for a Data Mining Class",
+        "title":"TCP-Port-Scanner",
+        "category":"Final Project for a Rust Class",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://github.com/michaeljudge75/TCP-Port-Scanner"
       },
       {
         "title":"Dockerized Game Library",
